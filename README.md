@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hello 👋
+    I'm Dr. Win, a passionate full-stack web and mobile app developer. 
+    I specialize in building robust applications for both Android and iOS platforms. My expertise includes:
+
+- **Web Development**: Laravel, React.js, Inertia.js
+- **Mobile Development**: React Native (for both Android and iOS)
+- **MERN Stack**: Proficient in MongoDB, Express, React, and Node.js
+
+I enjoy turning ideas into real-world applications, whether it's a web solution or a mobile app. I'm always exploring new technologies and best practices to deliver efficient and scalable software solutions.
+
+Feel free to check out my work and let's collaborate on exciting projects!
 
 <!--
 **winthihasoe/winthihasoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
